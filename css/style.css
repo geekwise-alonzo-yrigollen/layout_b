@@ -1,0 +1,229 @@
+html,body{
+    
+    margin:7px;
+    padding:1px;
+    font-size:62.5%;
+    box-sizing:border-box;
+    
+}
+
+body{
+    
+    width:100%;
+    height:100%;
+    background-color:lawngreen;
+    font-size:3em;
+    
+}
+
+#section1{
+    
+    width:100%;
+    height:calc(100%/5);
+    margin 0 auto;
+    padding: 0;
+    text-align: center;
+    line-height: 2em;
+    background-color: aqua;
+       
+}
+#logo{
+    margin: 10px;
+    padding:20px;
+    border-radius: 20px;
+    width: 85px;
+    background-color: burlywood
+}
+
+p{
+    
+    margin: 5px;
+    padding:;
+    width: 55;
+    background-color:burlywood;
+    
+}
+
+#section2{
+    
+    width:100%;
+    height:calc(100%/5);
+    margin 0 auto;
+    padding: 0;
+    text-align: center;
+    line-height: 2em;
+    background-color: red;
+    float:left;
+    
+       
+}
+
+#first{
+    width:calc(100%/3);
+    height: 40px;
+    padding:inherit;
+    background-color: blue;
+    float:left;
+    
+    
+}
+
+
+#second{
+    width:calc(100%/3);
+    height: 40px;
+    padding:inherit;
+    background-color:darkkhaki;
+    float:left;
+}
+
+
+
+#third{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:bisque;
+    float:right;
+    
+}
+
+
+
+#section3{
+    
+    width:100%;
+    height:calc(100%:/5);
+    margin 0 auto;
+    padding:;
+    text-align: center;
+    line-height: 2em;
+    background-color: darkorange;
+       
+}
+
+#climb{
+    
+    width:220px;
+    height:220px;
+    padding:;
+    background-color:red;
+    float:left;
+    
+    
+}
+
+#highest{
+    
+    width:calc(100%/2);
+    height:110px;
+    padding:;
+    background-color:mediumpurple;
+    float:right;
+}
+
+#mountain{
+    
+    width:calc(100%/2);
+    height:60px;
+    padding:;
+    background-color:mediumspringgreen;
+    float:right;
+}
+
+#section4{
+    
+    width:100%;
+    height:calc(100%/5);
+    margin 0 auto;
+    padding: 0;
+    text-align: center;
+    line-height: 2em;
+    background-color: paleturquoise;
+    float:left;
+       
+}
+
+#live{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:left;
+}
+
+#love{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:left;
+}
+
+#laugh{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:right;
+}
+
+
+#section5{
+    
+    width:100%;
+    height:calc(100%/5);
+    margin 0 auto;
+    padding: 0;
+    text-align: center;
+    line-height: 2em;
+    background-color: yellow;
+       
+}
+
+#zelda{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:right;
+}
+
+#mario{
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:right;
+}
+
+#link{
+    
+    width:calc(100%/3);
+    height:40px;
+    padding:inherit;
+    background-color:mediumpurple;
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
